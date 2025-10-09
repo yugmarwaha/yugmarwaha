@@ -41,7 +41,7 @@
 🧑‍🏫 **K-12 AI Tutor (Research)** – AI tutor for multilingual education  
 
 *(More on 👉 [yugmarwaha.github.io](https://yugmarwaha.github.io))*  
-
+<!--
 ---
 
 ### 📊 GitHub Highlights  
@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yugmarwaha&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yugmarwaha&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
+ -->
 ---
 
 ### 🧩 Currently Exploring  
@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yugmarwaha/"><img src="https://img.shields.io/badge/LinkedIn-0078ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://vercel.com/yug-marwahas-projects/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://portfolio-wine-two-53.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
