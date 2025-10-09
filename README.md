@@ -40,7 +40,7 @@
 🧘 **FocusFlow** – Productivity app blending Pomodoro & emotion tracking  
 🧑‍🏫 **K-12 AI Tutor (Research)** – AI tutor for multilingual education  
 
-*(More on 👉 [yugmarwaha.github.io](https://yugmarwaha.github.io))*  
+*(More on 👉 [https://portfolio-wine-two-53.vercel.app/])*  
 <!--
 ---
 
@@ -65,7 +65,7 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yugmarwaha/"><img src="https://img.shields.io/badge/LinkedIn-0078ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/yug-marwaha-881b53321"><img src="https://img.shields.io/badge/LinkedIn-0078ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio-wine-two-53.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
