@@ -1,6 +1,3 @@
----
-
-````md
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yug+Marwaha+👋;AI+%E2%80%A2+Full+Stack+%E2%80%A2+XR+%E2%80%A2+Research;Building+Tech+That+Thinks+—+and+Feels" alt="Typing SVG" />
 </h1>
@@ -59,49 +56,3 @@
 
 ```text
 Think → Design → Build → Debug → Polish → Ship 🚀
-````
-
-> “Code is not just logic — it’s emotion, precision, and rhythm.”
-
----
-
-### 🌱 Currently Learning
-
-* 🧩 Dynamic Programming & Advanced DSA
-* ⚙️ React 19 and Server Components
-* 🧠 Generative AI & fine-tuning
-* 🕶️ Lens Studio + Unity for AR
-
----
-
-### 📊 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yugmarwaha&theme=neon-dark&hide_border=true&fire=00C8FF&currStreakNum=00C8FF&sideLabels=FF007F" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugmarwaha&show_icons=true&theme=radical&hide_border=true&icon_color=00C8FF&title_color=FF007F" alt="Yug's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugmarwaha&theme=react-dark&bg_color=0A0F1C&color=00C8FF&line=FF007F&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yugmarwaha/"><img src="https://img.shields.io/badge/LinkedIn-0078ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yugmarwaha@wisc.edu"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yugmarwaha.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-<h3 align="center">✨ “Code. Learn. Repeat.” ✨</h3>
-<p align="center">Let’s build the future together ⚡</p>
-```
-
----
