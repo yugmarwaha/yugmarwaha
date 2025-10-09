@@ -1,58 +1,75 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yug+Marwaha+👋;AI+%E2%80%A2+Full+Stack+%E2%80%A2+XR+%E2%80%A2+Research;Building+Tech+That+Thinks+—+and+Feels" alt="Typing SVG" />
+<h1 align="center" style="font-size:40px; font-weight:700;">
+  🌌 Hey, I'm <span style="color:#00C8FF;">Yug Marwaha</span> 👋
 </h1>
 
 <p align="center">
-  <em>Computer Science @ UW–Madison 🎓 | AI • Systems • XR • Research</em><br>
-  <em>“Creating human-centered technology with intelligence and empathy.”</em>
+  <b>CS @ UW–Madison 🎓 | AI • Full-Stack • XR • Research</b><br>
+  <em>Building tech that thinks — and feels 💡</em>
 </p>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20AR-7E3FF2?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Currently-Learning%20React%2019%20%26%20DP-00C8FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-Build%20Human%20Tech-FF007F?style=for-the-badge"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yugmarwaha&theme=tokyonight" alt="profile summary"/>
 </div>
 
 ---
 
-### ⚡ About Me
+### 🧠 About Me  
 
-🧠 Passionate about **AI systems, XR experiences**, and **beautifully engineered products**  
-💻 Studying **Big Data Systems, Machine Organization, and UI Design** at UW–Madison  
-🌍 Exploring **education, creativity, and ethics** through technology  
-🎯 Building projects that merge **design + intelligence**  
-🚀 Always improving, one line of code at a time  
-
----
-
-### 🧩 Tech Stack
-
-#### 💻 Languages & Frameworks
-`Python` · `Java` · `C` · `JavaScript` · `React` · `Node.js` · `Express.js` · `HTML` · `CSS`
-
-#### 🧠 AI & Data
-`PyTorch` · `NumPy` · `pandas` · `OpenAI API` · `LangChain` · `gRPC`
-
-#### 🧱 Systems & Tools
-`Docker` · `Flask` · `Linux` · `Git/GitHub` · `Vercel` · `VS Code` · `Unity (XR)`
+💻 Passionate about crafting **AI-driven**, **immersive**, and **intelligent experiences**  
+🎯 Focused on **Full-Stack Engineering**, **AR/VR**, and **Big Data Systems**  
+🌱 Exploring the sweet spot between **design, cognition, and technology**  
+🚀 Building apps that help people **learn smarter and live better**  
 
 ---
 
-### 🧠 Featured Projects
+### ⚙️ Tech Toolbox  
 
-| 🌟 Project | Description | Tech |
-|:--|:--|:--|
-| **🐉 Dragon Strike VR** | A fantasy combat VR game built in Unity XR Toolkit for Meta Quest | Unity · C# · XR Toolkit |
-| **⚡ Forge Your Logo** | AI-powered logo generator with sleek UI and prompt creativity | React · Node.js · OpenAI API |
-| **🥗 SmartBite** | AI meal planner for personalized nutrition | Python · Flask · Gemini API |
-| **🎯 FocusFlow** | Productivity tracker with mood & Pomodoro integration | React · Node.js · MongoDB |
-| **🧑‍🏫 K-12 AI Tutor (Research)** | AI tutor for Spanish-speaking learners (UW research project) | Python · NLP · LangChain |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,docker,linux,flask,git,vscode,unity" />
+</p>
 
 ---
 
-### 🔁 My Workflow
+### 🚀 Projects You’ll Love  
 
-```text
-Think → Design → Build → Debug → Polish → Ship 🚀
+🕶️ **Dragon Strike VR** – Fight dragons in VR using Unity XR Toolkit  
+💡 **Forge Your Logo** – AI logo generator with prompt-driven creativity  
+🥗 **SmartBite** – Personalized AI meal planner using nutrition data  
+🧘 **FocusFlow** – Productivity app blending Pomodoro & emotion tracking  
+🧑‍🏫 **K-12 AI Tutor (Research)** – AI tutor for multilingual education  
+
+*(More on 👉 [yugmarwaha.github.io](https://yugmarwaha.github.io))*  
+
+---
+
+### 📊 GitHub Highlights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yugmarwaha&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yugmarwaha&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🧩 Currently Exploring  
+
+🧠 Dynamic Programming & Algorithmic Thinking  
+⚙️ React 19 + Server Components  
+🤖 Generative AI + Fine-Tuning  
+🕶️ Lens Studio & Unity XR  
+
+---
+
+### 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yugmarwaha/"><img src="https://img.shields.io/badge/LinkedIn-0078ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://vercel.com/yug-marwahas-projects/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+<h3 align="center">✨ Code. Create. Connect. ✨</h3>
+<p align="center"><em>“Every great idea starts as a blank repo.”</em></p>
