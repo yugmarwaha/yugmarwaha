@@ -39,8 +39,6 @@
 🥗 **SmartBite** – Personalized AI meal planner using nutrition data  
 🧘 **FocusFlow** – Productivity app blending Pomodoro & emotion tracking  
 🧑‍🏫 **K-12 AI Tutor (Research)** – AI tutor for multilingual education  
-
-*(More on 👉 [https://portfolio-wine-two-53.vercel.app/])*  
 <!--
 ---
 
