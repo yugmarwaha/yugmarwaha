@@ -55,12 +55,17 @@
 
 ---
 
-### 📈 Contribution Graph (Last 365 Days)
+### 📅 Contributions (1 Year, Month-by-Month)
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yugmarwaha&hide_border=true&area=true&days=365"
-    alt="GitHub Activity Graph (Last 365 days)"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yugmarwaha&theme=tokyonight"
+    alt="Productive Time"
+  />
+  <br/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yugmarwaha&theme=tokyonight"
+    alt="Contribution Calendar"
   />
 </p>
 
