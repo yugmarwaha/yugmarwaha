@@ -75,13 +75,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yug-marwaha-881b53321/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  <a href="https://x.com/YOUR_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  
+  <a href="https://x.com/yugmarwaha" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" />
   </a>
-  <a href="PASTE_PORTFOLIO_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C8FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  
+  <a href="https://portfolio-yugmarwaha.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C8FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00C8FF" />
+  </a>
+  
+  <a href="mailto:yugmarwaha.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
 </p>
 
