@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size:40px; font-weight:700;">
-  🌌 Hey, I'm <span style="color:#00C8FF;">Yug Marwaha</span> 👋
+  Hey, I'm <span style="color:#00C8FF;">Yug Marwaha</span> 👋
 </h1>
 
 <p align="center">
