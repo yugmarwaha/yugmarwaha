@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>CS @ UW–Madison 🎓 | AI Systems • Full-Stack • Data Infrastructure</b><br>
-  <em>Building scalable software with measurable impact</em>
+  <b>Computer Science Student @ UW–Madison 🎓 </b>
 </p>
 
 <br/>
