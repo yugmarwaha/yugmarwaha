@@ -3,71 +3,83 @@
 </h1>
 
 <p align="center">
-  <b>CS @ UW–Madison 🎓 | AI • Full-Stack • XR • Research</b><br>
-  <em>Building tech that thinks — and feels 💡</em>
+  <b>CS @ UW–Madison 🎓 | AI Systems • Full-Stack • Data Infrastructure</b><br>
+  <em>Building scalable software with measurable impact</em>
 </p>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yugmarwaha&theme=tokyonight" alt="profile summary"/>
-</div>
 
 ---
 
 ### 🧠 About Me  
 
-💻 Passionate about crafting **AI-driven**, **immersive**, and **intelligent experiences**  
-🎯 Focused on **Full-Stack Engineering**, **AR/VR**, and **Big Data Systems**  
-🌱 Exploring the sweet spot between **design, cognition, and technology**  
-🚀 Building apps that help people **learn smarter and live better**  
+💻 Building AI-powered systems from research to production  
+⚙️ Experience with microservices, RAG pipelines, and ETL architectures  
+📊 Strong foundation in Data Structures, Systems, and Big Data  
+🚀 Focused on performance, scalability, and clean engineering  
 
 ---
 
 ### ⚙️ Tech Toolbox  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,docker,linux,flask,git,vscode,unity" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,express,flask,docker,linux,git" />
 </p>
 
 ---
 
-### 🚀 Projects You’ll Love  
+### 🚀 Selected Projects  
 
-🕶️ **Dragon Strike VR** – Fight dragons in VR using Unity XR Toolkit  
-💡 **Forge Your Logo** – AI logo generator with prompt-driven creativity  
-🥗 **SmartBite** – Personalized AI meal planner using nutrition data  
-🧘 **FocusFlow** – Productivity app blending Pomodoro & emotion tracking  
-🧑‍🏫 **K-12 AI Tutor (Research)** – AI tutor for multilingual education  
-<!--
+🧠 **Questify AI** – RAG pipeline (FastAPI + AWS Bedrock + Pinecone)  
+→ Reduced manual content generation latency by 85%  
+
+⚙️ **FocusFlow** – Modular React 19 productivity system  
+→ Multi-provider Context API + persistent state architecture  
+
+🎵 **BeatSmith AI** – Rhythm synthesis engine (React + Flask + NumPy)  
+→ Custom quantization algorithms for grid-aligned audio  
+
+🗺️ **PathFinder Engine** – Java graph routing engine  
+→ Type-safe Dijkstra implementation with custom priority queues  
+
 ---
 
-### 📊 GitHub Highlights  
+### 🔥 Contribution Streak  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugmarwaha&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yugmarwaha&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=yugmarwaha&theme=default&hide_border=true" />
 </p>
- -->
+
+---
+
+### 📈 Contribution Graph (Monthly Activity)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugmarwaha&hide_border=true" />
+</p>
+
 ---
 
 ### 🧩 Currently Exploring  
 
-🧠 Dynamic Programming & Algorithmic Thinking  
-⚙️ React 19 + Server Components  
-🤖 Generative AI + Fine-Tuning  
-🕶️ Lens Studio & Unity XR  
+🧠 Dynamic Programming  
+⚙️ System Design Fundamentals  
+🤖 Retrieval Architectures & Generative AI  
+📈 Performance Optimization  
 
 ---
 
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yug-marwaha-881b53321/"><img src="https://img.shields.io/badge/LinkedIn-0078ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://portfolio-wine-two-53.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yug-marwaha-881b53321/">
+    <img src="https://img.shields.io/badge/LinkedIn-0078ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-yugmarwaha.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="center">✨ Code. Create. Connect. ✨</h3>
-<p align="center"><em>“Every great idea starts as a blank repo.”</em></p>
+<h3 align="center">Build systems. Measure impact. Iterate.</h3>
