@@ -55,34 +55,28 @@
 
 ---
 
-### 📈 Contribution Graph (Last 12 Months)
+### 📈 Contribution Graph (Last 365 Days)
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=yugmarwaha&hide_border=true&area=true&days=365"
-    alt="GitHub Activity Graph (365 days)"
+    alt="GitHub Activity Graph (Last 365 days)"
   />
 </p>
-
----
-
-### 🧩 Currently Exploring  
-
-🧠 Dynamic Programming  
-⚙️ System Design Fundamentals  
-🤖 Retrieval Architectures & Generative AI  
-📈 Performance Optimization  
 
 ---
 
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yug-marwaha-881b53321/">
-    <img src="https://img.shields.io/badge/LinkedIn-0078ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/yug-marwaha-881b53321/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://portfolio-yugmarwaha.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://x.com/YOUR_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="PASTE_PORTFOLIO_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C8FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
