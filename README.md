@@ -47,15 +47,21 @@
 ### 🔥 Contribution Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yugmarwaha&theme=default&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=yugmarwaha&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-### 📈 Contribution Graph (Monthly Activity)
+### 📈 Contribution Graph (Last 12 Months)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugmarwaha&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yugmarwaha&hide_border=true&area=true&days=365"
+    alt="GitHub Activity Graph (365 days)"
+  />
 </p>
 
 ---
