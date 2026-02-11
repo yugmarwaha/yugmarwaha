@@ -58,11 +58,6 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yugmarwaha&theme=tokyonight"
-    alt="Productive Time"
-  />
-  <br/>
-  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yugmarwaha&theme=tokyonight"
     alt="Contribution Calendar"
   />
