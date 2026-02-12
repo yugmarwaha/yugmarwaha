@@ -64,6 +64,29 @@
 </p>
 
 ---
+---
+
+### 🔥 Contribution Streak  
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=yugmarwaha&hide_border=true&date_format=j%20M%5B%20Y%5D&theme=tokyonight&cache_bust=true" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+---
+
+### 📅 Contributions (1 Year, Month-by-Month)
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yugmarwaha&theme=tokyonight&cache=1" 
+    alt="Contribution Calendar" 
+  />
+</p>
+
+---
 
 ### 🌐 Connect With Me  
 
