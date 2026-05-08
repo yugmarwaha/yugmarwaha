@@ -8,58 +8,10 @@
 
 <br/>
 
----
-
-### 🧠 About Me  
-
-💻 Building AI-powered systems from research to production  
-⚙️ Experience with microservices, RAG pipelines, and ETL architectures  
-📊 Strong foundation in Data Structures, Systems, and Big Data  
-🚀 Focused on performance, scalability, and clean engineering  
-
----
-
 ### ⚙️ Tech Toolbox  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,express,flask,docker,linux,git" />
-</p>
-
----
-
-### 🚀 Selected Projects  
-
-🧠 **Questify AI** – RAG pipeline (FastAPI + AWS Bedrock + Pinecone)  
-→ Reduced manual content generation latency by 85%  
-
-⚙️ **FocusFlow** – Modular React 19 productivity system  
-→ Multi-provider Context API + persistent state architecture  
-
-🎵 **BeatSmith AI** – Rhythm synthesis engine (React + Flask + NumPy)  
-→ Custom quantization algorithms for grid-aligned audio  
-
-🗺️ **PathFinder Engine** – Java graph routing engine  
-→ Type-safe Dijkstra implementation with custom priority queues  
----
-
-### 🔥 Contribution Streak  
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=yugmarwaha&hide_border=true&date_format=j%20M%5B%20Y%5D&theme=tokyonight&cache_bust=true" 
-    alt="GitHub Streak" 
-  />
-</p>
-
----
-
-### 📅 Contributions (1 Year, Month-by-Month)
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yugmarwaha&theme=tokyonight&cache=1" 
-    alt="Contribution Calendar" 
-  />
 </p>
 
 ---
